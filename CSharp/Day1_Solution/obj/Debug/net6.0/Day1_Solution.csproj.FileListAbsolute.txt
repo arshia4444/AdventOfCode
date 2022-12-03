@@ -1,0 +1,15 @@
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/bin/Debug/net6.0/Day1_Solution
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/bin/Debug/net6.0/Day1_Solution.deps.json
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/bin/Debug/net6.0/Day1_Solution.runtimeconfig.json
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/bin/Debug/net6.0/Day1_Solution.dll
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/bin/Debug/net6.0/ref/Day1_Solution.dll
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/bin/Debug/net6.0/Day1_Solution.pdb
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/obj/Debug/net6.0/Day1_Solution.csproj.AssemblyReference.cache
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/obj/Debug/net6.0/Day1_Solution.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/obj/Debug/net6.0/Day1_Solution.AssemblyInfoInputs.cache
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/obj/Debug/net6.0/Day1_Solution.AssemblyInfo.cs
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/obj/Debug/net6.0/Day1_Solution.csproj.CoreCompileInputs.cache
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/obj/Debug/net6.0/Day1_Solution.dll
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/obj/Debug/net6.0/ref/Day1_Solution.dll
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/obj/Debug/net6.0/Day1_Solution.pdb
+/home/arshia/Documents/AdventOfCode/CSharp/Day1_Solution/obj/Debug/net6.0/Day1_Solution.genruntimeconfig.cache
