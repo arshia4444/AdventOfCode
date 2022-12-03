@@ -5,7 +5,7 @@
 ## Summary
 
 [Advent of Code](http://adventofcode.com/) is an annual Advent calendar of programming puzzles.
-This year I am doing it in Python, C# and C.
+This year I am doing it in Python and C#.
 
 ## Overview
 
